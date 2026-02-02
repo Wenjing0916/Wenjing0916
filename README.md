@@ -1,6 +1,12 @@
 ## Hi there 👋 I'm Wenjing Gong.
 
-PhD student in Urban & Regional Science at TAMU
+PhD student in Urban & Regional Science (Urban Analytics & GeoAI) at TAMU
+
+RESEARCH INTERESTS
+✨	Urban Analytics, GIScience, GeoAI, Urban Planning
+🌱	Climate Resilience, Environmental Health, Urban Sustainability
+
+
 <!--
 **Wenjing0916/Wenjing0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
