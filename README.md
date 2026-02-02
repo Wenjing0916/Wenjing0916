@@ -3,8 +3,9 @@
 PhD student in Urban & Regional Science (Urban Analytics & GeoAI) at TAMU
 
 RESEARCH INTERESTS
-✨	Urban Analytics, GIScience, GeoAI, Urban Planning
-🌱	Climate Resilience, Environmental Health, Urban Sustainability
+
+- ✨	Urban Analytics, GIScience, GeoAI, Urban Planning
+- 🌱	Climate Resilience, Environmental Health, Urban Sustainability
 
 
 <!--
