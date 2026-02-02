@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Wenjing Gong.
 
 <!--
 **Wenjing0916/Wenjing0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
