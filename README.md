@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Wenjing Gong.
 
+PhD student in Urban & Regional Science at TAMU
 <!--
 **Wenjing0916/Wenjing0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
